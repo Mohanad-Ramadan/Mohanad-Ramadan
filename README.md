@@ -20,6 +20,9 @@
 <p align="left"> 
 <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="50" height="40" /></a>
 <a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg" alt="objectivec" width="40" height="40" /></a> 
+<a href="https://developer.apple.com/xcode/swiftui/" target="_blank" rel="noreferrer"> <img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" alt="SwiftUI" width="40" height="40" /></a> 
+<img src="https://developer.apple.com/assets/elements/icons/core-ml/core-ml-128x128_2x.png" alt="CoreML" width="40" height="40" /></a> 
+<img src="https://developer.apple.com/assets/elements/icons/arkit/arkit-128x128_2x.png" alt="ARKit" width="40" height="40" /></a> 
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohanad-ramadan&show_icons=true&theme=dark&locale=en&layout=compact" alt="mohanad-ramadan" /></p>
